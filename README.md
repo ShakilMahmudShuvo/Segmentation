@@ -26,14 +26,12 @@ Recovery (T2-FLAIR) volumes*
 
 
 # Results: 
-The performance of the model was rigorously evaluated using the **IoU (Intersection over Union) score** and **Dice coefficient/F1-Score** as reliable evaluation metrics. 
-*Accuracy*
+The performance of the model was rigorously evaluated using the **IoU (Intersection over Union) score** and **Dice coefficient/F1-Score** as reliable evaluation metrics. <br>
+
 ![accuracy](https://github.com/phreak1703007/Segmentation/assets/62479964/8a5353b3-b948-4d82-8959-c87b04bbf9d9)
 <br>
-*Iou Score*
 ![Iou_score](https://github.com/phreak1703007/Segmentation/assets/62479964/451bad19-f4a1-478f-9d14-6f58bc10cbbe)
 <br>
-*DSC/F1-Score*
 ![f1](https://github.com/phreak1703007/Segmentation/assets/62479964/a9702bff-b9c7-4743-a6e5-fc061412d47d)
 
 
